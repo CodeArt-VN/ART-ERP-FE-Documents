@@ -71,10 +71,10 @@ Bộ tài liệu training toàn diện cho dự án ART-ERP Frontend, bao gồm 
 - **[JsonViewerComponent](./components/json-viewer.md)** - JSON display và comparison
 - **[FormatQuantityComponent](./components/format-quantity.md)** - Quantity formatting với split details
 
-#### **🔧 Toolbar & Navigation (4 components)**
+#### **🔧 Toolbar & Navigation (3 components)**
 - **[ListToolbarComponent](./components/list-toolbar.md)** - Toolbar cho list pages
-- **[DetailToolbarComponent](./components/detail-toolbar.md)** - Toolbar cho detail pages
-- **[ToolbarComponent](./components/toolbar.md)** - Generic toolbar với actions
+- **[ToolbarComponent](./components/toolbar.md)** - Toolbar cho list và detail pages
+- **[DetailToolbarComponent](./components/detail-toolbar.md)** - (Deprecated) Dùng ToolbarComponent
 - **[BranchBreadcrumbsComponent](./components/branch-breadcrumbs.md)** - Hierarchical navigation
 
 #### **🔍 Filter & Search (1 component)**
